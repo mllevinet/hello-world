@@ -1,0 +1,7 @@
+vim "nom du fichier" : créer un fichier vim
+git checkout -b "nom de la branche" origin/master : créer une branche avec comme basee "origin/master" et se positionner dessus
+cat : afficher le fichier de manière brute
+git commit : créer un commit
+git status : tig (affiche les fichiers stagés ou pas)
+pour commiter un fichier il faut le stager
+ 
